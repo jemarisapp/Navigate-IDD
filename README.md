@@ -1,6 +1,6 @@
 # GENAI-Based Automated Video Solution for Medicaid Services
 
-## 🎯 Project Overview
+## Project Overview
 
 This project represents a groundbreaking AI-powered automation system designed to address critical accessibility challenges in Medicaid waiver programs. By leveraging cutting-edge artificial intelligence, natural language processing, and video generation technologies, the system transforms complex, dense policy documents into accessible, multilingual educational videos that reach families who need them most.
 
@@ -24,7 +24,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Core Technology Stack
 
@@ -71,7 +71,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🔄 Workflow Implementation
+## Workflow Implementation
 
 ### Phase 1: Document Processing & Knowledge Base
 
@@ -144,7 +144,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🎨 Key Features & Innovations
+## Key Features & Innovations
 
 ### Accessibility-First Design
 
@@ -202,7 +202,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 📊 Technical Implementation Details
+## Technical Implementation Details
 
 ### n8n Workflow Configuration
 
@@ -233,7 +233,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🚀 Deployment & Configuration
+## Deployment & Configuration
 
 ### Prerequisites
 
@@ -301,7 +301,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 
@@ -329,7 +329,7 @@ An end-to-end AI automation pipeline that:
 
 ---
 
-## 🎉 Conclusion
+## Conclusion
 
 This GENAI-Based Automated Video Solution represents a significant technological advancement in making Medicaid waiver information accessible to all families, regardless of language, literacy level, or technical expertise. By leveraging cutting-edge AI technologies and maintaining rigorous quality standards through human oversight, the system bridges critical accessibility gaps while improving service delivery efficiency.
 
