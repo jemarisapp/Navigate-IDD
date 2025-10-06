@@ -32,7 +32,7 @@ An end-to-end AI automation pipeline that:
 |-----------|------------|---------|
 | **Workflow Engine** | n8n | Orchestration and automation platform |
 | **AI Language Model** | OpenAI GPT-5 | Short script generation and translation |
-| **AI Language Model** | Claude Sonnet 4.5 | Long script generation and translation |
+| **AI Language Model** | Claude Sonnet 4.5 | Long script generation |
 | **Vector Database** | Pinecone | RAG implementation for accuracy |
 | **Video Generation** | Synthesia | Multi-language AI video creation |
 | **Social Distribution** | Blotato | Multi-platform content distribution |
