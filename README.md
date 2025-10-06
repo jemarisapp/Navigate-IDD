@@ -31,7 +31,8 @@ An end-to-end AI automation pipeline that:
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Workflow Engine** | n8n | Orchestration and automation platform |
-| **AI Language Model** | OpenAI GPT-5 | Script generation and translation |
+| **AI Language Model** | OpenAI GPT-5 | Short script generation and translation |
+| **AI Language Model** | Claude Sonnet 4.5 | Long script generation and translation |
 | **Vector Database** | Pinecone | RAG implementation for accuracy |
 | **Video Generation** | Synthesia | Multi-language AI video creation |
 | **Social Distribution** | Blotato | Multi-platform content distribution |
@@ -42,7 +43,7 @@ An end-to-end AI automation pipeline that:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│                    GENAI MEDICAID VIDEO AUTOMATION SYSTEM                        │
+│                    GENAI MEDICAID VIDEO AUTOMATION SYSTEM                       │
 └─────────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
